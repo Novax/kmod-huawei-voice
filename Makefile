@@ -5,7 +5,6 @@
 # Object file lists.
 
 obj-m			+= option.o
-obj-m			+= usb_wwan.o
 obj-m			+= huawei_voice.o
 
 all:
